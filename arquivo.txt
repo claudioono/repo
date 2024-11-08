@@ -1,1 +1,3 @@
 Mais um teste com o github em 08/11/2024
+
+Outro teste com VSCode em 08/11/2024
